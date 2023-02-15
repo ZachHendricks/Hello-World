@@ -13,11 +13,11 @@
 
 ## Description
 
-What does the program do? ==Why did you make me==?
+What does the program do? 
 
 ## How to Run Program
 
-How to setup and run the program
+How to **setup** and **run** the program
 
 ## Files Used
 
