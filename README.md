@@ -27,7 +27,7 @@ Datafiles
 
 Nothing at this time... [^1]
 
-[^1] for now.
+[^1]: for now.
 
 ## Versioning
 
