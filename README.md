@@ -9,11 +9,11 @@
 
 ## Project Title 
 
-*Hello World*
+*Hello World* 
 
 ## Description
 
-What does the program do? 
+What does the program do? ~~What can't it do?~~
 
 ## How to Run Program
 
