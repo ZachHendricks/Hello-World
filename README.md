@@ -13,7 +13,7 @@
 
 ## Description
 
-What does the program do? ~~What can't it do?~~
+What does the program do? ==Why did you make me?==
 
 ## How to Run Program
 
